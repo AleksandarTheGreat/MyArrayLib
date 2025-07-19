@@ -1,3 +1,3 @@
 # MyArrayLib
 
-# My Custom array
+My custom array
